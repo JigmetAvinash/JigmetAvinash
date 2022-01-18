@@ -11,3 +11,12 @@
   <a href="https://stackoverflow.com/users/17962925/avinash-kumar?tab=profile">
   <img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png" width="40px">
   </a>
+  <h3>My Proffesions/Hobbies</h3>
+  
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AE-Gaming-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/%F0%9F%92%BB-coding-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/%F0%9F%93%B7-Photography%20and%20Videography-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%A6-Video%20Editing-blue?style=for-the-badge">
+  
+  
+  
