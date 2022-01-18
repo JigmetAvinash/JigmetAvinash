@@ -52,7 +52,9 @@
   </a>
   </p>
   <img src="https://github-readme-stats.vercel.app/api?username=ChopCodes&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ChopCodes&layout=compact&theme=nord" />
   
+  <a href="https://github.com/TejasBaid"><h4 href="https://github.com/TejasBaid">Inspired by TejasBaid</h4></a>
   
   
   
