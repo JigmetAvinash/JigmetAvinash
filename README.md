@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @ChopCodes aka Avinash Kumar
-- ✔️ I know website and android devlopment
-- 👀 I’m interested in Gaming,Programming, and almost everything :P
-- 🌱 I’m currently learning Java & Python
-- 📫 How to reach me : 100T Chop#6728 (discord) | chopcodes@gmail.com
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
+<h2 align="center">Its Me, Chop aka Avinash Kumar !!</h2></h1>
 
-<!---
-ChopCodes/ChopCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3>My Socials</h3>
+<a href="https://www.instagram.com/chop_gamer/">
+<img src="https://img.icons8.com/color/100/000000/instagram-new--v2.png" alt="Instagram Profile" width="40px">
+</a>
+<a href="https://discord.gg/dhyehfCakv">
+  <img src="https://img.icons8.com/clouds/100/000000/discord-logo.png" width="40"px>
+  </a>
+  <a href="https://stackoverflow.com/users/17962925/avinash-kumar?tab=profile">
+  <img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png" width="40px">
+  </a>
