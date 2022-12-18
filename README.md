@@ -29,6 +29,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
   <img src="https://img.shields.io/badge/-Java%2017-blue?style=for-the-badge&logo=java">
+  <img src="https://img.shields.io/badge/Python-%23039BE5.svg?style=for-the-badge&logo=python">
   </p>
   <h3>Games</h3>
   <p>
