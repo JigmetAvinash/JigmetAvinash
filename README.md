@@ -1,63 +1,64 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
-<h2 align="center">Its Me, Chop aka Avinash Kumar !!</h2></h1>
 
-<h3>My Socials</h3>
-<a href="https://www.instagram.com/chop_gamer/">
-<img src="https://img.icons8.com/color/100/000000/instagram-new--v2.png" alt="Instagram Profile" width="40px">
-</a>
-<a href="https://discord.gg/dhyehfCakv">
-  <img src="https://img.icons8.com/clouds/100/000000/discord-logo.png" width="40"px>
-  </a>
-  <a href="https://stackoverflow.com/users/17962925/avinash-kumar?tab=profile">
-  <img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png" width="40px">
-  </a>
-  <a href="mailto:chopcodes@gmail.com">
-  <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="40px">
-  </a>
-  <h3>My Proffesions/Hobbies</h3>
-  <p>
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AE-Gaming-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BB-coding-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/%F0%9F%93%B7-Photography%20and%20Videography-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%A6-Video%20Editing-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/%F0%9F%93%94-Designing-red?style=for-the-badge">
-  </p>
-  <h3>Coding Languages</h3>
-  <p>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/-Java%2017-blue?style=for-the-badge&logo=java">
-  <img src="https://img.shields.io/badge/Python-%23039BE5.svg?style=for-the-badge&logo=python">
-  </p>
-  <h3>Games</h3>
-  <p>
-  <img src="https://img.shields.io/badge/-Minecraft-red?style=for-the-badge&logo=minecraft">
-  <img src="https://img.shields.io/badge/-Valorant-red?style=for-the-badge&logo=valorant">
-  <img src="https://img.shields.io/badge/-Fortnite-red?style=for-the-badge&logo=fortnite">
-  </p>
-  <h3>Design and Video Editing Tools</h3>
-  <p>
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Adobe%20After%20Effects-green?style=for-the-badge&logo=adobe%20after%20effects">
-  
-  
-  </p>
-  <h3>contact me</h3>
-  <p>
-  <img src="https://img.shields.io/badge/-100T%20Chop%206728-orange?style=for-the-badge&logo=discord">
-  <a href="mailto:chopcodes@gmail.com">
-  <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="40px">
-  </a>
-  </p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ChopCodes&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ChopCodes&layout=compact&theme=nord" />
-  
-  <a href="https://github.com/TejasBaid"><h4 href="https://github.com/TejasBaid">Inspired by TejasBaid</h4></a>
-  
-  
-  
-  
-  
+# Hi there 👋
+![Header](https://cdn.discordapp.com/attachments/1055128031137640481/1190317351313342524/Image_29-12-23_at_9.03_PM.jpeg?ex=65a15c6b&is=658ee76b&hm=46380b8860caadd35ec93571e77eee0c9aadf77b8a26aa461a01c8c61d42bf11&)
+
+I'm Avinash, and I'm a Teen programmer. Welcome to my GitHub profile!
+<img src="https://cdn.discordapp.com/attachments/1055128031137640481/1189606239097847920/b49eb9ab8e9812f1a3f423b5a5a7424d-sticker.png?ex=659ec625&is=658c5125&hm=769fcec57c820208a5c4089e61b106ef261771b21bf3b0501abc7487a55f86a1&" width="50px" margin-top="100px"/>
+
+## About Me
+
+I am a teen who loves to code and learn new languages and techinques in modern era of coding. I am a part of few Google Cloud and Microsoft developer programs too. ! Aside from coding I like to pursue my hobby in Videography/Photography, editing and sports like badminton.
+You are free to look and explore my github profile and clone/fork any repo 
+
+## Skills
+<center>
+- Web Development : 
+  <br>
+  <br>
+    <div>
+      <img src="https://img.icons8.com/?size=256&id=108784&format=png" height="40px"/>
+      <img src="https://cdn.discordapp.com/attachments/1055128031137640481/1189613666992140298/Image_27-12-23_at_10.28_PM.jpeg?ex=659ecd10&is=658c5810&hm=ec6e97a81d91d3a6fdb00f9eebe9f23c73ac9b796accacb04ab96f9f8c643a28&" height="40px" />
+      <img  src="https://img.icons8.com/?size=256&id=asWSSTBrDlTW&format=png" height="40px" /> 
+      <img src="https://img.icons8.com/?size=256&id=20909&format=png" height="40px"/>
+      <img src="https://img.icons8.com/?size=256&id=4PiNHtUJVbLs&format=png" height="40px" />
+    </div>
+  <br>
+- Mobile Development
+  <br>
+  <br>
+    <div>
+       <img src="https://cdn.discordapp.com/attachments/1055128031137640481/1189620312225099876/wOkaW83P5y1hgAAAABJRU5ErkJggg.png?ex=659ed340&is=658c5e40&hm=02cf2d37a02454743dc4feb3a0f70d55c8e5f1d5af803745134bbc19487bc33f&" height="40px"/>
+      <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" height="40px" alt="Expo (React Native Framework)"/> 
+    </div>
+  <br>
+- Backend
+  <br>
+  <br>
+    <div>
+       <img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" height="40px"/>
+      <img src="https://clerk.com/_next/image?url=%2Fimages%2Fclerk-logo.svg&w=256&q=75" height="40px" alt="Clerk Auth"/> 
+      <img src="https://github.com/ChopCodes/ChopCodes/blob/main/Python.png" height="40px" />
+    </div>
+  <br>
+- Design
+  <br>
+  <br>
+    <div>
+       <img src="https://play-lh.googleusercontent.com/efwNlvQ3pch_-hZ9xeHf6YF-f_rHzQQo21IVevPLOxpzSVfxuVKom2_7C6axFbC-3rU=w600-h300-pc0xffffff-pd" height="40px"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg/1200px-Adobe_Creative_Cloud_rainbow_icon.svg.png" height="40px" /> 
+      <img src="https://play-lh.googleusercontent.com/3aWGqSf3T_p3F6wc8FFvcZcnjWlxpZdNaqFVEvPwQ1gTOPkVoZwq6cYvfK9eCkwCXbRY" height="40px" />
+    </div>
+  <br>
+</center>
+
+## GitHub Stats
+
+![chopcodes's Stats](https://github-readme-stats.vercel.app/api?username=chopcodes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![chopcodes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chopcodes&theme=vue-dark&hide_border=true)
+
+![chopcodes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chopcodes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+## Contact Me
+
+[Contact](https://linktr.ee/JAvinashKumar)
