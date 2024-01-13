@@ -60,5 +60,4 @@ You are free to look and explore my github profile and clone/fork any repo
 ![chopcodes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chopcodes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Contact Me
-
-[Contact](https://linktr.ee/JAvinashKumar)
+[Contact Form](https://tr.ee/ExlwYVkuxa) 
