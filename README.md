@@ -53,11 +53,11 @@ You are free to look and explore my github profile and clone/fork any repo
 
 ## GitHub Stats
 
-![chopcodes's Stats](https://github-readme-stats.vercel.app/api?username=chopcodes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![JigmetAvinash's Stats](https://github-readme-stats.vercel.app/api?username=JigmetAvinash&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![chopcodes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chopcodes&theme=vue-dark&hide_border=true)
+![JigmetAvinash's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JigmetAvinash&theme=vue-dark&hide_border=true)
 
-![chopcodes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chopcodes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![chopcodes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JigmetAvinash&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Contact Me
 [Contact Form](https://tr.ee/ExlwYVkuxa) 
